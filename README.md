@@ -1,4 +1,3 @@
-# iPlots
----
-## Projects
-* [primate_ig_loci](primate_ig_loci/README.md)
+# Smart Dotplots
+### with Human T2T
+* [bornean_orangutan_hap1_igh_human_igh_dotplot](bornean_orangutan_hap1_igh_human_igh_dotplot.html)
