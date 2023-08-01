@@ -1,4 +1,4 @@
-# Smart Dotplots
+# Smart Dotplots for primate-human alignments from UniAligner
 ### with Human T2T
 * [bonobo_hap1_igh_human_igh_dotplot](bonobo_hap1_igh_human_igh_dotplot.html)
 * [bonobo_hap2_igh_human_igh_dotplot](bonobo_hap2_igh_human_igh_dotplot.html)
