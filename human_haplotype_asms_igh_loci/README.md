@@ -8,3 +8,5 @@
 * [HG03453_hap2_igh_human_igh_dotplot](HG03453_hap2_igh_human_igh_dotplot.html)
 * [NA19240_hap1_igh_human_igh_dotplot](NA19240_hap1_igh_human_igh_dotplot.html)
 * [NA19240_hap2_igh_human_igh_dotplot](NA19240_hap2_igh_human_igh_dotplot.html)
+# Synteny Blocks
+* [synteny_blocks](synteny_blocks/README.md)
