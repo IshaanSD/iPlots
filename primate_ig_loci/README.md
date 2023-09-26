@@ -9,6 +9,16 @@
 * [sumatran_orangutan_hap1_igh_human_igh_dotplot](sumatran_orangutan_hap1_igh_human_igh_dotplot.html)
 * [sumatran_orangutan_hap2_igh_human_igh_dotplot](sumatran_orangutan_hap2_igh_human_igh_dotplot.html)
 
+### Between primate and Human GRCh38 reference
+* [bonobo_hap1_igh_hg38_igh_dotplot](bonobo_hap1_igh_hg38_igh_dotplot.html)
+* [bonobo_hap2_igh_hg38_igh_dotplot](bonobo_hap2_igh_hg38_igh_dotplot.html)
+* [bornean_orangutan_hap1_igh_hg38_igh_dotplot](bornean_orangutan_hap1_igh_hg38_igh_dotplot.html)
+* [bornean_orangutan_hap2_igh_hg38_igh_dotplot](bornean_orangutan_hap2_igh_hg38_igh_dotplot.html)
+* [gorilla_hap1_igh_hg38_igh_dotplot](gorilla_hap1_igh_hg38_igh_dotplot.html)
+* [gorilla_hap2_igh_hg38_igh_dotplot](gorilla_hap2_igh_hg38_igh_dotplot.html)
+* [sumatran_orangutan_hap1_igh_hg38_igh_dotplot](sumatran_orangutan_hap1_igh_hg38_igh_dotplot.html)
+* [sumatran_orangutan_hap2_igh_hg38_igh_dotplot](sumatran_orangutan_hap2_igh_hg38_igh_dotplot.html)
+
 ### Between primate and Frankenstein IGH reference
 
 ### Between Human references
