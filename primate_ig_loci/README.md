@@ -18,6 +18,7 @@
 * [gorilla_hap2_igh_hg38_igh_dotplot](gorilla_hap2_igh_hg38_igh_dotplot.html)
 * [sumatran_orangutan_hap1_igh_hg38_igh_dotplot](sumatran_orangutan_hap1_igh_hg38_igh_dotplot.html)
 * [sumatran_orangutan_hap2_igh_hg38_igh_dotplot](sumatran_orangutan_hap2_igh_hg38_igh_dotplot.html)
+* [Human_T2T_igh_hg38_igh_dotplot](chm13_igh_hg38_igh_dotplot.html)
 
 ### Between primate and Frankenstein IGH reference
 
